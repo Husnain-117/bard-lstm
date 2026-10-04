@@ -1,11 +1,5 @@
-# AI Assignment 2
 
-End-to-end implementations for two sequence modeling tasks:
 
-- **Q1**: PixelRNN Image Completion (PyTorch) — report and assets under `Q1/`.
-- **Q2**: Shakespeare LSTM Sentence Completion (TensorFlow/Keras) — full training pipeline + Streamlit app.
-
----
 
 ## Project Structure
 
